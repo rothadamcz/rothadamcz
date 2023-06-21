@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @rothadamcz
+- 👨‍🎓 Student of the Czech Technical University in Prague
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Springboot.
+- 🌱 I’m currently learning Springboot, FiveM scripting and Microservice architecture
